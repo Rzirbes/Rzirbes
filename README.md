@@ -1,5 +1,7 @@
 # Bem vindo,
 
+Software developer focused on building scalable backend systems and full-stack applications using Node.js, NestJS and React.
+
 
 ```ts
 class RomuloZirbes {
