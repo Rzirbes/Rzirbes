@@ -24,9 +24,16 @@ Atualmente desenvolvendo:
 
 **RenderIA** 
  - SaaS para geração de imagens arquitetônicas com IA.
+     - Stack:
+        - Next.js • NestJS • Prisma • PostgreSQL • Gemini API
    
 **TeamZQ**
  - Plataforma de gestão e monitoramento de atletas.
+    - Funcionalidades:
+    - Gestão de atletas
+    - Planejamento de treinos
+    - Monitoramento físico
+    - API backend estruturada
 
 
 ---
