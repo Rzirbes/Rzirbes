@@ -1,6 +1,6 @@
 # Bem vindo,
 
-Software developer focused on building scalable backend systems and full-stack applications using Node.js, NestJS and React.
+Desenvolvedor Full Stack focado em sistemas backend escaláveis e aplicações web completas com Node.js, NestJS e React. Gosto de pegar um problema real de negócio e levar até a produção, da modelagem do banco ao deploy.
 
 
 ```ts
@@ -15,15 +15,31 @@ class RomuloZirbes {
 
 Atualmente desenvolvendo:
 
-**PaperZero**  
- - Sistema de gestão eletrônica de documentos (GED).
+**Coopersal · Desenvolvedor Full Stack (Freelance)**  
+ - Sistema de gestão de coleta de recicláveis para uma cooperativa, em produção.
+
+    - Rotas de coleta, frota, motoristas, abastecimentos e produção de materiais
+    - API REST em NestJS com arquitetura em camadas (domínio, casos de uso e infraestrutura)
+    - Autenticação JWT com refresh token, sessão via BFF com Redis, Helmet e rate limiting
+    - Testes unitários e e2e com Jest, Supertest e Playwright · deploy no Render
 
  - Atuação:
-   - Desenvolvimento de funcionalidades frontend com React e Next.js  
-   - Implementação de APIs e integrações backend  
-   - Manipulação e organização de documentos e classificações  
-   - Desenvolvimento em ambiente de produção com controle de versões
+   - Funcionalidades em React, Next.js e TypeScript integradas a APIs REST  
+   - Módulos de tags, permissões, workflows e organização de documentos  
+   - Camada BFF (Backend for Frontend) para tratar e validar dados  
+   - Listagens com filtros, busca e paginação para grandes volumes de dados
 
+Experiência:
+
+**PaperZero**  
+ - Plataforma de GED (Gestão Eletrônica de Documentos) em produção.
+
+ - Atuação:
+   - Funcionalidades em React, Next.js e TypeScript integradas a APIs REST  
+   - Módulos de tags, permissões, workflows e organização de documentos  
+   - Camada BFF (Backend for Frontend) para tratar e validar dados  
+   - Listagens com filtros, busca e paginação para grandes volumes de dados
+   
 **RenderIA** 
  - SaaS para geração de imagens arquitetônicas com IA.
      - Stack:
