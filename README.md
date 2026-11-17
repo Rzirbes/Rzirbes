@@ -88,4 +88,4 @@ LinkedIn
 https://www.linkedin.com/in/romulo-zirbes/
 
 Email  
-rzirbes5@rede.ulbra.br
+rzirbes5@gmail.com
