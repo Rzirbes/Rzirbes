@@ -1,4 +1,4 @@
-# Bem vindo,
+# Bem víndo,
 
 Desenvolvedor Full Stack focado em sistemas backend escaláveis e aplicações web completas com Node.js, NestJS e React. Gosto de pegar um problema real de negócio e levar até a produção, da modelagem do banco ao deploy.
 
